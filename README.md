@@ -1,5 +1,5 @@
 # Meditation
-<h2>App built in jetpack compose<h2>
+<h2>App built in jetpack compose</h2>
 
 Design Reference: https://dribbble.com/shots/15822493-Meditation-Mobile-App
 
